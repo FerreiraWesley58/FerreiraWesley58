@@ -18,6 +18,7 @@
 
 ## 🔧 Linguagens, libs e frameworks:
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -46,12 +47,7 @@
 
 ---
 
-## 📊 Estatísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&langs_count=8&theme=radical)
-
----
-
 ## 🔢 Total de visitas no meu perfil
 
-![visitors](https://komarev.com/ghpvc/?username=seu-usuario-github&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0e75b6&style=flat)
+![visitors](https://komarev.com/ghpvc/?username=FerreiraWesley58&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0e75b6&style=flat)
+
