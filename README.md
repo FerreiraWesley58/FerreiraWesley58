@@ -16,22 +16,42 @@
 
 ---
 
-## 💼 Sobre mim
+## 🔧 Linguagens, libs e frameworks:
 
-- 👨‍💻 Desenvolvedor com **4 anos de experiência** na área de tecnologia
-- ⚙️ Focado em performance, código limpo e interfaces intuitivas
-- 📍 Atualmente morando em **Manaus-AM**
-- 🧠 Estudando novas formas de unir **design e funcionalidade**
-- 🏋️‍♂️ Nas horas vagas, você me encontra na academia
-
----
-
-## 📫 Vamos nos conectar!
-
-- 🌐 [Meu Portfólio](https://seu-portfolio.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 📬 Email: seuemail@gmail.com
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-black?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
 
-⭐ Se curtir algum projeto por aqui, deixa uma estrela! Ela ajuda muito :)
+## 🛠️ Ferramentas:
+
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+---
+
+## 📘 Estou aprendendo:
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-black?style=flat-square&logo=gnu-bash&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&langs_count=8&theme=radical)
+
+---
+
+## 🔢 Total de visitas no meu perfil
+
+![visitors](https://komarev.com/ghpvc/?username=seu-usuario-github&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0e75b6&style=flat)
